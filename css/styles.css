@@ -5,6 +5,33 @@ body {
             padding: 0;
             background-color: #f0f0f0;
         }
+#ramen-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+    margin: 1 rem 0;
+     padding: 0%;
+    }
+    #ramen-menu img{
+        width: 200px;
+        height: 200px;
+        margin: 0.5 rem;
+        padding: 0%;
+        object-fit: cover;
+    }
+    #ramen-detail{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 1 rem;
+    }
+    #ramen-detail img{
+        width: 550px;
+        height: 335px;
+    }
  form {
             display: flex;
             flex-direction: column;

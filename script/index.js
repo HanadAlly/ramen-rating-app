@@ -2,31 +2,31 @@
    {
      name: "Shoyu Ramen",
      restaurant: "Ichiran",
-     image: "shoyu.jpg",
+     image: "./images/gyukotsu.jpg",
      rating: 5,
      comment: "Delicious!",
    },
    {
      name: "Tonkotsu Ramen",
      restaurant: "Ippudo",
-     image: "tonkotsu.jpg",
+     image: "./images/kojiro.jpg",
      rating: 4,
      comment: "Very rich broth.",
    },
-    {
-      name: "Miso Ramen",
-      restaurant: "Ramen Misoya",
-      image: "miso.jpg",
-      rating: 3,
-      comment: "Good but not great.",
-    },
-    {
-      name: "Shio Ramen",
-      restaurant: "Ramen Hak Ryu",
-      image: "shio.jpg",
-      rating: 4,
-      comment: "Salty but tasty.",
-    },
+   {
+     name: "Miso Ramen",
+     restaurant: "Ramen Misoya",
+     image: "./images/naruto.jpg",
+     rating: 3,
+     comment: "Good but not great.",
+   },
+   {
+     name: "Shio Ramen",
+     restaurant: "Ramen Hak Ryu",
+     image: "./images/nirvana.jpg",
+     rating: 4,
+     comment: "Salty but tasty.",
+   },
  ];
 
  function displayRamens() {
