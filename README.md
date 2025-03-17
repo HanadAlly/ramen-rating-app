@@ -3,3 +3,9 @@ This is my ramen rating app where my clients compare my ramen to other restauran
 
 ## Author 
 Ali Mohammed
+
+### Features
+-Add new ramen reviews
+-Edit existing reviews
+-View a list of all ramen reviews
+
