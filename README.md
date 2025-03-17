@@ -9,3 +9,5 @@ Ali Mohammed
 -Edit existing reviews
 -View a list of all ramen reviews
 
+#### How to access te ramen-rating-app
+https://hanadally.github.io/ramen-rating-app/
